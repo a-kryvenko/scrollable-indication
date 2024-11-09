@@ -2,6 +2,8 @@
 
 Simple highlighting of scrollable div's via white gradient on scrollable side (bottom/right).
 
+![scroll-highlight-example](https://github.com/user-attachments/assets/1ce5616a-1d88-4514-9f85-3c05c66d12a3)
+
 There is no options, all customization should be maked by editing source styles. Here is markup requirements for correct behavior:
 
 ~~~html
